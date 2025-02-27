@@ -1,6 +1,8 @@
 [![MasterHead](https://www.jonesday.com/-/media/files/publications/2019/05/when-coding-is-criminal/when-coding-is-criminal.jpg?rev=7daa2e80878c4c119b1b3cf1d5864271&h=800&w=1600&la=en&hash=D199BFB81E339067A687CA8DCE856940)](https://codegrills.in)
 <h1 align="center">Hi 👋, I'm Fardin Alam Pranto</h1>
-<h3 align="center">A passionate Software developer from BD.</h3>
+<h3 align="center">👨‍💻 Full Stack Software Developer | Founder & CEO of Fardinium Innovations
+💡 Passionate about App Development, Web Development, Digital Marketing, and Freelancing
+🎯 Helping beginners build careers in Tech & Freelancing</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinalampranto&label=Profile%20views&color=0e75b6&style=flat" alt="fardinalampranto" /> </p>
@@ -9,20 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/fardinalam522" target="blank"><img src="https://img.shields.io/twitter/follow/fardinalam522?logo=twitter&style=for-the-badge" alt="fardinalam522" /></a> </p>
 
-- 🔭 I’m currently working on **Android, iOS & web Applications**
-
-- 🌱 I’m currently learning **Software Development Courses**
-
-- 👯 I’m looking to collaborate on **Software Development Projects**
-
-- 🤝 I’m looking for help with **Humanities**
-
-- 💬 Ask me about **Software Development, AI, Bug Hunting**
-
-- 📫 How to reach me **fardinalam522@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
-
+🚀 About Me
+🎓 CSE Student at CCN University of Science & Technology
+💼 Founder of Fardinium Innovations – IT & Software Solutions
+📚 Author of Career in Freelancing: The Ultimate Skill Set
+🎥 Instructor of multiple online courses on Freelancing, Digital Marketing, Video Editing, and Programming
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fardinalam522" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardinalam522" height="30" width="40" /></a>
