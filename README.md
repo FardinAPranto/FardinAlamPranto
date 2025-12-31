@@ -34,62 +34,50 @@
 
 ### 🚀 Professional Overview
 
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" style="border-radius: 10px;">
+
 > *"Using engineering principles to design, develop, and evaluate the future."*
 
 I am **Fardin Alam Pranto**, a passionate **Software Engineer** from **Comilla, Bangladesh**. I specialize in designing and maintaining scalable **Android, iOS, and Web applications**.
 
-Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committed to social responsibility. I actively lead voluntary activities through my organization **"Ichhe-Puron"**. I also contribute to the tech community by offering **online courses** for aspiring developers, dedicating a significant portion of the proceeds to support social causes.
+Beyond my work as the **Founder of Fardinium Innovations**, I am deeply committed to social responsibility. I actively lead voluntary activities through my organization **"Ichhe-Puron"**. I also contribute to the tech community by offering **online courses** for aspiring developers.
 
 * 🎓 **Education:** Computer Science & Engineering @ **BU**.
 * 🔭 **Current Focus:** Building the **FI Ecosystem** & managing **Ichhe-Puron**.
 * 🌱 **Researching:** Quantum Algorithms, System Architecture & AI.
 * 💼 **Experience:** 300+ Deployments across Mobile & Web Platforms.
 
+<br clear="all">
+
 ---
 
-### 🛠️ Engineering Arsenal & Tools
+### 🛠️ Engineering Arsenal (Realistic Tech Stack)
 
-<table align="center">
-  <tr>
-    <td align="center" width="120"><b>Languages</b></td>
-    <td align="center" width="120"><b>Frameworks</b></td>
-    <td align="center" width="120"><b>Database/Cloud</b></td>
-    <td align="center" width="120"><b>Tools/OS</b></td>
-    <td align="center" width="120"><b>Creative</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,cpp,html,css,php&theme=light" alt="Languages" />
+  </a>
+  <br><br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,django,express,bootstrap,tailwind&theme=light" alt="Frameworks" />
+  </a>
+  <br><br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,sqlite&theme=light" alt="Database" />
+  </a>
+  <br><br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,pycharm,androidstudio&theme=light" alt="Tools" />
+  </a>
+  <br><br>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps,pr,ai,figma,xd&theme=light" alt="Creative" />
+  </a>
+</div>
 
 **🚀 Advanced Research:**
 ![Quantum](https://img.shields.io/badge/Quantum_Computing-black?style=flat-square&logo=atom)
